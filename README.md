@@ -1,1 +1,1 @@
-This is some machine learning code I wrote watching tutorials just to get exposure on how to create models, train models, when to apply different machine learning algorithims and also introduced me to managing large datasets. 
+This is some machine learning code I wrote watching tutorials just to get exposure on how to create models, train models and when to apply different machine learning algorithims. Doing this has also introduced me to managing large datasets. 
